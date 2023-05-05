@@ -4,7 +4,7 @@ import Demo from './components/Demo'
 const App = () => {
   return (
     <main>
-        <div classname = "main">
+        <div className = "main">
             <div className='gradient'/>
 
         </div>
